@@ -1,5 +1,3 @@
-Great 👍 I’ll generate a complete, well-structured README for the project based on the repository content.
-
 ---
 
 # 📰 False News Identifier
@@ -212,11 +210,3 @@ This project currently does not specify a license.
 If you plan to distribute or modify it, consider adding a license such as MIT or Apache 2.0.
 
 ---
-
-If you'd like, I can also:
-
-* ✅ Create a professional `requirements.txt`
-* ✅ Add model performance metrics section
-* ✅ Convert this into a deployment-ready project README
-* ✅ Add badges (build, Python version, license, etc.)
-* ✅ Improve it to a resume-level GitHub project description
